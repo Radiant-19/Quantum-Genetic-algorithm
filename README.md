@@ -20,6 +20,7 @@
           * if the childs obj value is less(in case of minimization) remove the parent and add the child to the population
    similarly the process carries out untill a recurring solution has been found
    
-   ## The Implementation of Quantum Concepts
+  ## The Implementation of Quantum Concepts
+   The implementation of the quantum concepts consist of coverting the quantum chromosomes into classical numbers so that the genetic algorithm could process them      and the resulting classical chromosome could be converted into the quantum chromosome so that they will now be the base class parents for the further iterations.
    
    
